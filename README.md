@@ -1,4 +1,4 @@
-# Hi, I'm Scherry 👋
+# Hi, I'm cherry 👋
 
 Welcome to my GitHub profile.  
 I build experimental projects, desktop simulators, and fun CLI tools.  
@@ -14,9 +14,13 @@ I build experimental projects, desktop simulators, and fun CLI tools.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scherry1101&show_icons=true&theme=radical)  
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scherry1101&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scherry1101&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scherry1101&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scherry1101&theme=radical)  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=scherry1101)
+
 
 ---
 
@@ -34,9 +38,7 @@ I build experimental projects, desktop simulators, and fun CLI tools.
 - Discord: `cherry_1101`  
 - Portfolio / Live Projects: [Nova](https://nova1101.netlify.app)
 
----
 
-> “Coding is the playground, and every project is a new game.”
 
 
 <!--
