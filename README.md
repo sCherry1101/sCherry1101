@@ -9,6 +9,7 @@ I build experimental projects, desktop simulators, and fun CLI tools.
 
 - **[Nova](https://nova1101.netlify.app)** — Web-based desktop with chatbot, calculator, notepad, taskbar, and energy bars.  
 - **[binary-con](https://github.com/scherry1101/binary-con)** — Simple binary-to-decimal converter.
+- **[Portfolio](https://github.com/scherry1101/Portfolio)**- My Portfolio for more details
 
 ---
 
