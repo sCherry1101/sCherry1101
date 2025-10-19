@@ -1,7 +1,7 @@
 # Hi, I'm cherry 👋
 
 Welcome to my GitHub profile.  
-I build experimental projects, desktop simulators, and fun CLI tools.  
+I code whatever I imagine to be like ><
 
 ---
 
