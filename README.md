@@ -7,7 +7,7 @@ I code whatever I imagine to be like ><
 
 ## Projects
 
-- **[Nova](https://nova1101.netlify.app)** — Web-based desktop with chatbot, calculator, notepad, taskbar, and energy bars.  
+- **[Nova](https://nova1101.netlify.app)** — Web-based desktop with calculator, notepad, taskbar, and energy bars.  
 - **[binary-con](https://github.com/scherry1101/binary-con)** — Simple binary-to-decimal converter.
 - **[Portfolio](https://github.com/scherry1101/Portfolio)**- My Portfolio for more details
 
