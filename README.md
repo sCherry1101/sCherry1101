@@ -23,14 +23,6 @@ I code whatever I imagine to be like ><
 
 ---
 
-## About Me
-
-- 13-year-old tinkerer and coder  
-- Enjoy building small experiments and learning new tech  
-- Mostly Python, JavaScript, and HTML/CSS projects  
-
----
-
 ## Contact
 
 - GitHub: [@scherry1101](https://github.com/scherry1101)  
