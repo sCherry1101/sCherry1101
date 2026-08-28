@@ -1,13 +1,8 @@
 # Hi, I'm Cherry
 
-Mostly offline, but I code.
-
-I focus on web development and python, though many of my older projects are archived.*sigh*
-
+I like to code and enjoy exploring new things for fun....
 ---
-
-
+Check out my pinned projects below!
+---
 ## Contact
-
-- Discord: `cherry_1101`  
-- Mail: `cherry11018113@proton.me`
+Mail:  `cherry11018113` [at] `proton` [dot] `me`
